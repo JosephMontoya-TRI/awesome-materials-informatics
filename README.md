@@ -28,6 +28,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [httk](http://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
 - [ioChem-BD](http://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
+- [MatMiner](https://hackingmaterials.github.io/matminer/) - Data mining framework with structure and composition featurization for ML (**Python**)
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**).
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
 - [pyiron](https://github.com/pyiron) - An integrated development environment (IDE) for computational materials science (**Python**).
